@@ -10,6 +10,9 @@ import torch.optim as optim
 # Avoid pip install requirement on the evaluation program side, if you use above packages and sub-packages of them, then that is fine!
 
 ###### PART 1 ######
+def qwert():
+  print("ggwp")
+  return "lelele l;ele lemma"
 
 def get_data_blobs(n_points=100):
   pass
